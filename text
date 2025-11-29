@@ -1,0 +1,15 @@
+financial-dashboard/
+├── backend/
+│   ├── app.py
+│   ├── models.py
+│   ├── auth.py
+│   ├── requirements.txt
+│   └── config.py
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   ├── package.json
+│   └── build/
+├── database/
+│   └── init.sql
+└── README.md
